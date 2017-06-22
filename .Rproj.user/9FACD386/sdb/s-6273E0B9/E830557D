@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "blogdown::new_site()\n\nblogdown::install_theme('Zenithar/hugo-theme-bleak')\n\nblogdown::serve_site()\n",
+    "created" : 1497211904178.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4141777200",
+    "id" : "E830557D",
+    "lastKnownWriteTime" : 1497253592,
+    "last_content_update" : 1497253592551,
+    "path" : "C:/Users/Usuario/projects/blog/script.R",
+    "project_path" : "script.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

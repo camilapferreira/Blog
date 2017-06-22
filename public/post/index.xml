@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Camila Ferreira</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Camila Ferreira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Expectation Ratings: a methodology to quantify the user experience</title>
+      <link>/2017/06/12/expectation-ratings-a-methodology-to-quantify-the-user-experience/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/06/12/expectation-ratings-a-methodology-to-quantify-the-user-experience/</guid>
+      <description>As part of the day to day challenge of being a Product Manager, the launch of a new product issuper important, especially if we’re going on the right track. Within this context, I would like to share the methodology I used to quantify and validate the user experience when I prototyped the first version of the product I would release after 3 months: the Expectation Rating, created by Albert and Dixon (2003).</description>
+    </item>
+    
+    <item>
+      <title>How venture capital experience helps me make product decisions</title>
+      <link>/2017/03/05/how-venture-capital-experience-helps-me-make-product-decisions/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/03/05/how-venture-capital-experience-helps-me-make-product-decisions/</guid>
+      <description>The experience as Product Manager has been such an interesting discovery. I never analyse a product without thinking as a venture capitalist. I often look at the growing stages of the company, instead of focusing only on its product functionalities or interfaces.
+Before joining Monashees Capital, I worked at Tricae - a Rocket Internet company - with Business Intelligence, and in a second moment with performance marketing. This was my very first time dealing with technology and in a startup as well.</description>
+    </item>
+    
+    <item>
+      <title>Now I know why there are so few women Product Managers</title>
+      <link>/2016/12/30/now-i-know-why-there-are-so-few-women-product-managers/</link>
+      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+      
+      <guid>/2016/12/30/now-i-know-why-there-are-so-few-women-product-managers/</guid>
+      <description>Although I graduated in Chemical Engineering, I shifted to the digital segment. I love what I do as a Product Manager and everything I’ve learned, but it has definitely not been easy.
+My first experience on digital was at Tricae, a baby goods e-commerce business. I started as a marketing analyst, and the whole concept was new to me. Performance Marketing was complex, and I had a lot of technical requirements that made me spend hours studying after work.</description>
+    </item>
+    
+  </channel>
+</rss>
